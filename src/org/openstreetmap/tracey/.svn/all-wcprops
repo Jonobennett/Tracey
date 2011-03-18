@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/20759/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey
+END
+TraceyPreferencesBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/20629/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyPreferencesBox.java
+END
+TraceyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25612/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyView.java
+END
+GpxUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/20629/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/GpxUpload.java
+END
+TraceyPreferencesBox.form
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyPreferencesBox.form
+END
+TraceyPropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/20629/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyPropertiesDialog.java
+END
+TraceyView.form
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25612/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyView.form
+END
+TraceyPropertiesDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/20629/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyPropertiesDialog.form
+END
+TraceyApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyApp.java
+END
+PrivacyListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/25612/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/PrivacyListModel.java
+END
+TraceListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/20759/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceListModel.java
+END
+TraceyAboutBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/20759/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyAboutBox.java
+END
+Privacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/20629/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/Privacy.java
+END
+TraceyAboutBox.form
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/20759/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/TraceyAboutBox.form
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/20629/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources
+END
+TraceyPropertiesDialog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/20629/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/TraceyPropertiesDialog.properties
+END
+TraceyApp.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/TraceyApp.properties
+END
+NewOkCancelDialog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/NewOkCancelDialog.properties
+END
+mag_map_medium.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/mag_map_medium.png
+END
+TraceyFileChooser.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/TraceyFileChooser.properties
+END
+delete.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/delete.png
+END
+TraceyAboutBox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/TraceyAboutBox.properties
+END
+upload.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/upload.png
+END
+add.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/add.png
+END
+TraceyPreferencesBox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/TraceyPreferencesBox.properties
+END
+TraceyView.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/TraceyView.properties
+END
+about.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/20521/applications/utils/gps-tracks/tracey/src/org/openstreetmap/tracey/resources/about.png
+END
